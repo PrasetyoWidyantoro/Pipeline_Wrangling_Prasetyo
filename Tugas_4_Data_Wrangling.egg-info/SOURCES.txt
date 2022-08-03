@@ -1,0 +1,7 @@
+README.md
+setup.py
+Tugas_4_Data_Wrangling.egg-info/PKG-INFO
+Tugas_4_Data_Wrangling.egg-info/SOURCES.txt
+Tugas_4_Data_Wrangling.egg-info/dependency_links.txt
+Tugas_4_Data_Wrangling.egg-info/requires.txt
+Tugas_4_Data_Wrangling.egg-info/top_level.txt
